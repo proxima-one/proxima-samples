@@ -1,0 +1,16 @@
+{
+  "name": "eth-blockheaders-stream",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@proximaone/stream-client-js": "^0.3.0"
+  },
+  "devDependencies": {
+    "ts-node": "^10.4.0",
+    "typescript": "^4.5.5"
+  },
+  "scripts": {
+    "start": "ts-node index.ts"
+  }
+}
