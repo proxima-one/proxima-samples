@@ -1,0 +1,15 @@
+{
+  "name": "dex-transactions",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "ts-node index.ts"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@proximaone/stream-client-js": "^0.3.0",
+    "bson": "^4.6.1"
+  }
+}

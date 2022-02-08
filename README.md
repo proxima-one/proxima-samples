@@ -1,1 +1,1 @@
-# proxima-samples
+# Proxima Samples
